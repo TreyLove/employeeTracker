@@ -11,5 +11,5 @@ An employee directory made in react. Designed for users to be able to view and s
 
 ## Images
 
-![screeshot of home page](public/images/homepage-screenshot.PNG)
+![screeshot of deployed application](images\exampPic.PNG)
 

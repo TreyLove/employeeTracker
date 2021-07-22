@@ -7,7 +7,11 @@ An employee directory made in react. Designed for users to be able to view and s
 ## How To
 
 -Go to the deployed site and view employees
+
 -click the sort button to sort employees by name
+
+## Important Links
+deployed site: https://limitless-retreat-05322.herokuapp.com/
 
 ## Images
 
